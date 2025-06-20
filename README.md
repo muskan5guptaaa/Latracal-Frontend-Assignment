@@ -11,9 +11,12 @@ This is the **frontend** of the Book Review Platform, built using **React.js**. 
 - Axios
 - Context API or Redux (for state management)
 - Tailwind CSS / Bootstrap (for styling)
-
-  ##Deployed URL-https://latracal-frontend-assignment.vercel.app/
-
+  
+```
+```
+ ## Deployed URL-https://latracal-frontend-assignment.vercel.app/
+```
+```
 ## 🔧 How to Clone and Run the Frontend
 
 Follow these steps to set up and run the frontend locally:
@@ -33,7 +36,7 @@ The frontend will run on:
 👉 http://localhost:3000
 
 
-
+```
 ## 🌐 Pages & Components
 
 - **Home Page** – Displays featured books
@@ -43,7 +46,8 @@ The frontend will run on:
 - **User Profile Page** – View and update user info
 - **Login / Register** – User authentication and access
 
-````
+```
+
 🧠 State Management
 Choose one of the following for managing global state:
 React Context API – For lightweight state management
